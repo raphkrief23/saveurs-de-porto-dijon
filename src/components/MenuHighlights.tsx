@@ -84,7 +84,7 @@ const MenuHighlights = () => {
             Notre Menu
           </h2>
           <p className="text-muted-foreground font-light text-sm">
-            Burgers artisanaux · Déjeuner & Dîner · Fait maison
+            Resto portugais · Déjeuner & Dîner · Fait maison
           </p>
         </div>
         <div className="space-y-14">

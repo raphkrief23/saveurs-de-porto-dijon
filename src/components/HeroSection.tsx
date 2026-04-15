@@ -12,7 +12,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-foreground/60" />
       <div className="relative z-10 text-center px-6 max-w-3xl mx-auto">
         <p className="font-body text-primary-foreground/80 tracking-[0.4em] uppercase text-sm mb-6 animate-[fadeSlideUp_1s_0.3s_both]">
-          Burgers & Grill
+          Resto portugais
         </p>
         <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl text-primary-foreground font-medium mb-6 leading-tight animate-[fadeSlideUp_1s_0.6s_both]">
           Saveurs de Dijon
