@@ -5,7 +5,7 @@ const HeroSection = () => {
     <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
       <img
         src={heroChef}
-        alt="Saveurs de Porto ( Dijon )"
+        alt="Saveurs de Porto"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"
       />
@@ -15,7 +15,7 @@ const HeroSection = () => {
           Burgers & Grill
         </p>
         <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl text-primary-foreground font-medium mb-6 leading-tight animate-[fadeSlideUp_1s_0.6s_both]">
-          Saveurs de Porto ( Dijon )
+          Saveurs de Porto
         </h1>
         <div className="w-16 h-px bg-accent mx-auto mb-6 animate-[growWidth_0.8s_1s_both]" />
         <a
